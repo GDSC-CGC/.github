@@ -1,5 +1,12 @@
 <h3 align="center"> :tada:	Welcome to Google Developer Student Club - CGC COE :tada:	</h3>
 
+
+<a href="https://gdsc.community.dev/chandigarh-group-of-colleges-coe-landran/">
+<p align="center">
+  <img src="https://img.shields.io/badge/Join%20Club-24a0ed?style=for-the-badge&logo=Join%20Club&logoColor=white" alt="Join GDSC LPU Club" />
+</p>
+</a>
+
 <h2>:point_right:	ABOUT</h2>
 
 DSC CGC is a student oriented technical club which primely intents to aid students in building up their skills in the prominent tech-fields of the present - Web Technologies, Machine learning, Mobile app development, Cloud. Students from any/every academic background are welcome. DSC CGC fuels the concept of bringing like-minded tech geeks under one roof to enhance their growth and make the best of the talents available to the community.
